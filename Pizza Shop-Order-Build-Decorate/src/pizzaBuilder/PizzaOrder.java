@@ -32,7 +32,7 @@ public class PizzaOrder{
     System.out.format("Baking a Shay Pizza... \n"); 
     pb = new Pizza.Builder("Shay Pizza"); 
     p = pb.pizzas(1).build();
-    reportOrder();
+    reportOrderShay();
   }
 
   private void reportOrder()
@@ -43,5 +43,15 @@ public class PizzaOrder{
       p.toppings.pepperoni,
       p.toppings.onion,
       p.toppings.frenchfries );
+  }
+
+  private void reportOrderShay()
+  {
+    System.out.format("\nBuilt %s - num pies: %d, pepperoni: %b, onion: %b, frenchfries %b\n",
+            p.getName(),
+            p.getNumber(),
+            p.toppings.pepperoni = true,
+            p.toppings.onion,
+            p.toppings.frenchfries );
   }
 }
