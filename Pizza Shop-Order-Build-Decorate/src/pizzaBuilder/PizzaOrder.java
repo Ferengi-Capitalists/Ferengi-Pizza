@@ -13,16 +13,15 @@ public class PizzaOrder{
 
   public void bakeDeepDish()
   {
-	System.out.format("Baking a deepdish... \n"); 
+    System.out.format("Baking a deepdish... \n"); 
     pb = new Pizza.Builder("Deep Dish"); 
     p = pb.pizzas(1).build();
     reportOrder();
-
   }
   public void bakeThinCrust()
   {
-  	System.out.format("Baking a thincrust... \n");
-  	pb = new Pizza.Builder("Thin Crust");  
+    System.out.format("Baking a thincrust... \n");
+    pb = new Pizza.Builder("Thin Crust");  
     p = pb.pizzas(1).build();
     reportOrder();
   }
@@ -33,7 +32,6 @@ public class PizzaOrder{
     pb = new Pizza.Builder("Shay Pizza"); 
     p = pb.pizzas(1).build();
     reportOrder();
-
   }
 
   private void reportOrder()
