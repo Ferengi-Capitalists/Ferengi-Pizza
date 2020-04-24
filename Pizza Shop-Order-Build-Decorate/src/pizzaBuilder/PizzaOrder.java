@@ -52,7 +52,7 @@ public class PizzaOrder{
             p.getNumber(),
             p.toppings.pepperoni = true,
             p.toppings.onion,
-            p.toppings.frenchfries
+            p.toppings.frenchfries,
             p.toppings.mushrooms = true,
             p.toppings.pineapple,
             p.toppings.chickenTenders );
