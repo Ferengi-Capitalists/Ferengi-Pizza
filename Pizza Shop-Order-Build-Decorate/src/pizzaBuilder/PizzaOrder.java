@@ -25,7 +25,8 @@ public class PizzaOrder{
     p = pb.pizzas(1).build();
     reportOrder();
   }
-	
+
+  //Shay Pizza Has Pepperoni and mushrooms
   public void bakeShayPizza()
   {
     System.out.format("Baking a Shay Pizza... \n"); 
