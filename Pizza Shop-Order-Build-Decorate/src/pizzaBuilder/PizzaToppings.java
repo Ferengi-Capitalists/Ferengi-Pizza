@@ -11,6 +11,9 @@ public class PizzaToppings
 	public boolean pepperoni = false;
 	public boolean onion = false;
 	public boolean frenchfries = false;
+	public boolean mushrooms = false;
+	public boolean pineapple = false;
+	public boolean chickenTenders = false;
 }
  
      
