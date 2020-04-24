@@ -15,6 +15,7 @@ public class PizzaOrderer
     PizzaCommand deepDish = new DeepDishCommand(order);
     PizzaCommand thinCrust = new ThinCrustCommand(order);
     PizzaCommand ShayPizza = new ShayPizzaCommand(order);
+    PizzaCommand CourtneyPizza = new CourtneyPizzaCommand(order);
 
     // Order a deep Dish pizza
     control.setCommand(deepDish);
@@ -26,6 +27,10 @@ public class PizzaOrderer
 
     // Order a ShayPizza pizza
     control.setCommand(ShayPizza);
+    control.submitOrder();
+
+    // Order a CourtneyPizza pizza
+    control.setCommand(CourtneyPizza);
     control.submitOrder();
   }
 }
