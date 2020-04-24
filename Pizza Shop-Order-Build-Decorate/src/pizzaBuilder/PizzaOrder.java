@@ -55,12 +55,15 @@ public class PizzaOrder{
 
   private void reportOrderShay()
   {
-    System.out.format("\nBuilt %s - num pies: %d, pepperoni: %b, onion: %b, frenchfries %b\n",
+    System.out.format("\nBuilt %s - num pies: %d, pepperoni: %b, onion: %b, frenchfries %b mushrooms: %b, pineapple: %b, chickenTenders %b\n",
             p.getName(),
             p.getNumber(),
             p.toppings.pepperoni = true,
             p.toppings.onion,
-            p.toppings.frenchfries );
+            p.toppings.frenchfries,
+            p.toppings.mushrooms = true,
+            p.toppings.pineapple,
+            p.toppings.chickenTenders );
   }
 
   private void reportOrderCourtney()
