@@ -1,3 +1,15 @@
+dist: xenial
 language: java
-script: ant main
 
+addons:
+  apt:
+    packages:
+      ant
+
+script: 
+  - cd $TRAVIS_BUILD_DIR/Ferengi-Pizza
+  - export GIT_TAG=$TRAVIS_BRANCH.$TRAVIS_BUILD_NUMBER
+  - ant clean
+  - ant compile
+  - ant jar
+  - ant run
