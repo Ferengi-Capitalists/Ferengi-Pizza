@@ -1,0 +1,275 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"custo",
+				"custom-control-label"
+			],
+			[
+				"dark",
+				"darkSwitch"
+			],
+			[
+				"bak",
+				"background-color\tproperty"
+			],
+			[
+				"dar",
+				"darkSwitch"
+			],
+			[
+				"goal",
+				"goal_entry"
+			],
+			[
+				"custom",
+				"custom-control"
+			],
+			[
+				"cus",
+				"custom-control"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"mr",
+				"mr-auto"
+			],
+			[
+				"in",
+				"instance"
+			],
+			[
+				"Goal",
+				"GoalForm"
+			],
+			[
+				"g",
+				"goal_edit"
+			],
+			[
+				"upda",
+				"update_view"
+			],
+			[
+				"goa",
+				"goal_objective"
+			],
+			[
+				"home",
+				"home2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/agx32/OneDrive/Documents/GitHub/CS3398-Ferengi-S2020/blog/templates/blog/base.html",
+		"/C/Users/agx32/OneDrive/Documents/GitHub/CS3398-Ferengi-S2020/blog/static/blog/main.css",
+		"/C/Users/agx32/OneDrive/Documents/GitHub/CS3398-Ferengi-S2020/blog/views.py",
+		"/C/Users/agx32/OneDrive/Documents/GitHub/CS3398-Ferengi-S2020/blog/templates/blog/news.html",
+		"/C/Users/agx32/OneDrive/Documents/GitHub/CS3398-Ferengi-S2020/blog/urls.py",
+		"/C/Users/agx32/OneDrive/Documents/GitHub/CS3398-Ferengi-S2020/blog/templates/blog/script.js",
+		"/C/Users/agx32/OneDrive/Documents/GitHub/CS3398-Ferengi-S2020/djangoProject/settings.py",
+		"/C/Users/agx32/OneDrive/Documents/GitHub/CS3398-Ferengi-S2020/blog/templates/blog/darkmode.css",
+		"/C/Users/agx32/OneDrive/Documents/GitHub/CS3398-Ferengi-S2020/blog/templates/blog/goals.html",
+		"/C/Users/agx32/OneDrive/Documents/GitHub/CS3398-Ferengi-S2020/blog/templates/blog/delete.html",
+		"/C/Users/agx32/OneDrive/Documents/GitHub/CS3398-Ferengi-S2020/blog/models.py",
+		"/C/Users/agx32/OneDrive/Documents/GitHub/CS3398-Ferengi-S2020/blog/templates/blog/goal_edit.html",
+		"/C/Users/agx32/OneDrive/Documents/GitHub/CS3398-Ferengi-S2020/blog/admin.py",
+		"/C/Users/agx32/OneDrive/Documents/GitHub/CS3398-Ferengi-S2020/blog/templates/blog/about.html",
+		"/C/Users/agx32/OneDrive/Documents/GitHub/CS3398-Ferengi-S2020/blog/templates/blog/detail_view.html",
+		"/C/Users/agx32/OneDrive/Documents/GitHub/CS3398-Ferengi-S2020/blog/templates/blog/update_view.html",
+		"/C/Users/agx32/OneDrive/Documents/GitHub/CS3398-Ferengi-S2020/blog/forms.py",
+		"/C/Users/agx32/OneDrive/Documents/GitHub/CS3398-Ferengi-S2020/blog/templates/blog/goals_view.html",
+		"/C/Users/agx32/OneDrive/Documents/GitHub/CS3398-Ferengi-S2020/goals/url.py",
+		"/C/Users/agx32/OneDrive/Documents/GitHub/CS3398-Ferengi-S2020/goals/views.py",
+		"/C/Users/agx32/OneDrive/Documents/GitHub/CS3398-Ferengi-S2020/djangoProject/urls.py",
+		"/C/Users/agx32/OneDrive/Documents/GitHub/CS3398-Ferengi-S2020/blog/templates/blog/home2.html",
+		"/C/Users/agx32/OneDrive/Documents/GitHub/CS3398-Ferengi-S2020/blog/templates/blog/base2.html",
+		"/C/Users/agx32/OneDrive/Documents/GitHub/CS3398-Ferengi-S2020/news/urls.py",
+		"/C/Users/agx32/OneDrive/Documents/GitHub/CS3398-Ferengi-S2020/news/templates/home2.html",
+		"/C/Users/agx32/OneDrive/Documents/GitHub/CS3398-Ferengi-S2020/news/templates/base2.html",
+		"/C/Users/agx32/OneDrive/Documents/GitHub/CS3398-Ferengi-S2020/news/views.py",
+		"/C/Users/agx32/OneDrive/Documents/GitHub/CS3398-Ferengi-S2020/blog/templates/blog/dropmenu.html",
+		"/C/Users/agx32/OneDrive/Documents/GitHub/CS3398-Ferengi-S2020/blog/templates/blog/user_posts.html",
+		"/C/Users/agx32/OneDrive/Documents/GitHub/CS3398-Ferengi-S2020/blog/templates/blog/home.html",
+		"/C/Users/agx32/OneDrive/Documents/GitHub/CS3398-Ferengi-S2020/blog/templates/blog/drop.js",
+		"/C/Users/agx32/OneDrive/Documents/GitHub/CS3398-Ferengi-S2020/blog/apps.py",
+		"/C/Users/agx32/OneDrive/Documents/GitHub/CS3398-Ferengi-S2020/blog/templates/blog/drop.css",
+		"/C/Users/agx32/OneDrive/Documents/GitHub/CS3398-Ferengi-S2020/users/views.py",
+		"/C/Users/agx32/OneDrive/Documents/GitHub/CS3398-Ferengi-S2020/blog/__init__.py",
+		"/C/Users/agx32/OneDrive/Documents/GitHub/CS3398-Ferengi-S2020/blog/tests.py",
+		"/C/Users/agx32/OneDrive/Documents/GitHub/CS3398-Ferengi-S2020/users/models.py",
+		"/C/Users/agx32/OneDrive/Documents/GitHub/CS3398-Ferengi-S2020/users/admin.py",
+		"/C/Users/agx32/OneDrive/Documents/GitHub/CS3398-Ferengi-S2020/djangoProject/asgi.py",
+		"/C/Users/agx32/Dev/venv3/src/trydjango3/settings.py",
+		"/C/Users/agx32/Dev/venv3/src/templates/base.html",
+		"/C/Users/agx32/Dev/venv3/src/templates/home.html",
+		"/C/Users/agx32/Dev/venv3/src/pages/views.py",
+		"/C/Users/agx32/Dev/venv3/src/trydjango3/urls.py",
+		"/C/Users/agx32/Dev/venv3/src/products/models.py",
+		"/C/Users/agx32/Dev/venv3/src/products/views.py",
+		"/C/Users/agx32/Dev/venv3/src/products/admin.py",
+		"/C/Users/agx32/Dev/venv3/src/db.sqlite3",
+		"/C/Users/agx32/Dev/venv2/pyvenv.cfg",
+		"/C/Users/agx32/Dev/venv2/trydjango2.sublime-project",
+		"/C/Users/agx32/Dev/venv2/src/manage.py"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "PizzaOrder.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 244.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
