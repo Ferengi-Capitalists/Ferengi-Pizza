@@ -1,7 +1,7 @@
 dist: xenial
 
 language: java
-jdk: oraclejdk9
+install: ant deps
 
 script: 
   - cd $TRAVIS_BUILD_DIR/Ferengi-Pizza
