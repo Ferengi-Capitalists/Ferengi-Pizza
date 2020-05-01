@@ -38,7 +38,7 @@ public class PizzaOrder{
   public void bakeRyanPizza()
   {
     System.out.format("Baking a Ryan Pizza... \n"); 
-    pb = new Pizza.Builder("Shay Ryan"); 
+    pb = new Pizza.Builder("Ryan Pizza"); 
     p = pb.pizzas(1).build();
     reportOrderRyan();
   }
