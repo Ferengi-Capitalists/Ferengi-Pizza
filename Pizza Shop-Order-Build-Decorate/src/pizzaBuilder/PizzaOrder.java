@@ -109,7 +109,7 @@ public class PizzaOrder{
       p.toppings.pepperoni = true,
       p.toppings.chickenTenders = true,
       p.toppings.frenchfries = true,
-      p.toppings.onion = true,
+      p.toppings.onion = true
       );
   }
 }
