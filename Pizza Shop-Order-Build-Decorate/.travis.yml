@@ -1,16 +1,22 @@
+dist: xenial
+
 language: java
+install: true 
+
 jdk: 
-  - oraclejdk8
+  - oraclejdk9
 
 install:
   - ant
 
-script:
-  - git config --global push.default simple
-  - export GIT_TAG=$TRAVIS_BRANCH.$TRAVIS_BUILD_NUMBER
-  - ant build
+jobs:
+  include:
+    script:
+      - git config --global push.default simple
+      - export GIT_TAG=$TRAVIS_BRANCH.$TRAVIS_BUILD_NUMBER
+      - ant build
 
-  skip_cleanup: true
+  skip_cleanup: true  
   on:
     tags: false
     all_branches: true
