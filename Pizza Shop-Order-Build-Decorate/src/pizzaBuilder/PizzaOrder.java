@@ -58,6 +58,13 @@ public class PizzaOrder{
     p = pb.pizzas(1).build();
     reportOrderAlex();
   }
+   public void bakeScottPizza()
+  {
+     System.out.format("Baking a Scott Pizza... \n");
+     pb = new Pizza.Builder("Scott Pizza");
+     p = pb.pizzas(1).build();
+     reportOrderScott();
+  }
 
   private void reportOrder()
   {
@@ -111,5 +118,13 @@ public class PizzaOrder{
       p.toppings.frenchfries = true,
       p.toppings.onion = true
       );
+  }
+  private void reportOrderScott()
+  {
+      System.out.format(" "\nBuilt %s - num pies: %d, pepperoni: %b, mushrooms: %b \n",
+                        p.getName(),
+                        p.getNumber(),
+                        p.toppings.pepperoni = true,
+                        p.toppings.mushrooms = true);    
   }
 }
