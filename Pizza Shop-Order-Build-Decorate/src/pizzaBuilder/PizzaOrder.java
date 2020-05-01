@@ -69,7 +69,16 @@ public class PizzaOrder{
       p.toppings.frenchfries );
   }
 
-  private void reportOrderRyan()
+    private void reportOrderRyan()
+  {
+    System.out.format("\nBuilt %s - num pies: %d, pepperoni: %b,  pineapple: %b\n",
+            p.getName(),
+            p.getNumber(),
+            p.toppings.pepperoni = true,
+            p.toppings.pineapple = true );
+  }
+
+  private void reportOrderShay()
   {
     System.out.format("\nBuilt %s - num pies: %d, pepperoni: %b, onion: %b, frenchfries %b mushrooms: %b, pineapple: %b, chickenTenders %b\n",
             p.getName(),
@@ -80,15 +89,6 @@ public class PizzaOrder{
             p.toppings.mushrooms = true,
             p.toppings.pineapple,
             p.toppings.chickenTenders );
-  }
-
-  private void reportOrderShay()
-  {
-    System.out.format("\nBuilt %s - num pies: %d, pepperoni: %b, pineapple: %b\n",
-            p.getName(),
-            p.getNumber(),
-            p.toppings.pepperoni = true,
-            p.toppings.pineapple = true );
   }
 
   private void reportOrderCourtney()
