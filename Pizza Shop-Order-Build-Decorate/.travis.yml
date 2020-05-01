@@ -6,7 +6,11 @@ install:
   - ant
 
 script:
-  - ant clean
-  - ant compile
-  - ant jar
-  - ant run
+  - git config --global push.default simple
+  - export GIT_TAG=$TRAVIS_BRANCH.$TRAVIS_BUILD_NUMBER
+  - ant build
+
+  skip_cleanup: true
+  on:
+    tags: false
+    all_branches: true
