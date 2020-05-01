@@ -121,7 +121,7 @@ public class PizzaOrder{
   }
   private void reportOrderScott()
   {
-      System.out.format(" "\nBuilt %s - num pies: %d, pepperoni: %b, mushrooms: %b \n",
+      System.out.format("\nBuilt %s - num pies: %d, pepperoni: %b, mushrooms: %b \n",
                         p.getName(),
                         p.getNumber(),
                         p.toppings.pepperoni = true,
