@@ -69,7 +69,7 @@ public class PizzaOrder{
       p.toppings.frenchfries );
   }
 
-    private void reportOrderRyan()
+  private void reportOrderRyan()
   {
     System.out.format("\nBuilt %s - num pies: %d, pepperoni: %b,  pineapple: %b\n",
             p.getName(),
