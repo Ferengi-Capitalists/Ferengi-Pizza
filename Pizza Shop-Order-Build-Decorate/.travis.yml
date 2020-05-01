@@ -1,2 +1,10 @@
 language: java
+jdk: oraclejdk9
 
+addons:
+  apt:
+    packages:
+      - ant
+
+script:
+  -ant
