@@ -1,14 +1,2 @@
-dist: xenial
-
 language: java
-jdk: oraclejdk9
 
-addons:
-  apt:
-    packages:
-      - ant
-
-script: 
-  - cd $TRAVIS_BUILD_DIR/Ferengi-Pizza
-  - export GIT_TAG=$TRAVIS_BRANCH.$TRAVIS_BUILD_NUMBER
-  - ant build
