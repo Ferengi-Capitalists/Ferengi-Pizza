@@ -42,5 +42,9 @@ public class PizzaOrderer
     // Order a RyanPizza pizza
     control.setCommand(RyanPizza);
     control.submitOrder();
+    
+    // Order a ScottPizza pizza
+    control.setCommand(ScottPizza);
+    control.submitOrder();
   }
 }
