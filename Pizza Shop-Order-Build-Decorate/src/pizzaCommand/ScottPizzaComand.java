@@ -6,7 +6,7 @@ import java.awt.event.*;  // Using AWT event classes and listener interfaces
 
 
 //Concrete Command
-public class ScottPizzaComand implements PizzaCommand
+public class ScottPizzaCommand implements PizzaCommand
 {
   //reference to the order
   PizzaOrder order;
